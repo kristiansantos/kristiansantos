@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kristiansantos 👨‍💻
+# 👋 Hi, I’m Kristian Santos 👨‍💻
 
 I am a Full Stack Software Developer. I am passionate about technologies and love to learn new things.
 
