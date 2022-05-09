@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kristian Santos 👨‍💻
+# 👋 Kristian Santos 👨‍💻
 
 I am a Software Engineer. I am passionate about technology and love to learn new things.
 
