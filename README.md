@@ -1,6 +1,6 @@
 # Kristian Santos 👨‍💻
 
-I am a Software Engineer. I am passionate about technology and love to learn new things.
+I’m a BSc in Information Systems and i have been working as a Software Engineer for the last 6 years. I started to develop in C and Java, and I fell in love with software development and the diversity of possible ways to solve the same problem with different technologies.
 
 <div align="center">
 	<a href="https://github.com/kristiansantos">
