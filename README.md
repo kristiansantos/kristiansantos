@@ -1,14 +1,15 @@
 # Kristian Santos 👨‍💻
 
 I’m a BSc in Information Systems and i have been working as a Software Engineer for the last 6 years. I started to develop in C and Java, and I fell in love with software development and the diversity of possible ways to solve the same problem with different technologies.
+##
 
 <div align="center">
 	<a href="https://github.com/kristiansantos">
-	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kristiansantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiansantos&layout=compact&langs_count=7&theme=dracula"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kristiansantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiansantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## ⚡ Tech Stack
+## 
 
 <div style="display: inline_block;">
 	<br />
