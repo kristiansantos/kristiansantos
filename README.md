@@ -20,7 +20,7 @@ I’m a BSc in Information Systems and i have been working as a Software Enginee
 	<img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 	<img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
 	<img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
+	<img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 </div>
 
 
